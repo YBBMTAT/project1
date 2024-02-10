@@ -114,6 +114,7 @@ public class SphereController : MonoBehaviour
         }
     }
 
+
     private void Jump()
     {
         // Sphereに上向きの力を加えてみる
